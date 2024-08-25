@@ -47,3 +47,6 @@ p {
     transition-duration: 1s;
 }
 
+#showbtn {
+    margin: 200px auto;
+}
