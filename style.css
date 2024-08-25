@@ -50,3 +50,11 @@ p {
 #showbtn {
     margin: 200px auto;
 }
+
+#closebtn {
+    margin-top: 3px;
+}
+
+.popup button {
+    margin-top: 6px;
+}
