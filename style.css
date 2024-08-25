@@ -30,3 +30,8 @@ h1 {
 h2 {
     color: rgb(139, 52, 52);
 }
+
+p {
+    text-align: center;
+    font-weight: bold;
+}
