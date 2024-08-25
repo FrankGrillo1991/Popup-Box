@@ -8,3 +8,10 @@ body {
     align-items: center;
     height: 400px;
 }
+
+.heading {
+    display: flex;
+    align-items: center;
+    height: 28px;
+    justify-content: center;
+}
