@@ -87,10 +87,6 @@ button:hover {
         width: 400px;
         height: 250px;
     }
-
-    button {
-        width: 100%;
-    }
 }
 
 @media screen and (max-width: 600px) {
@@ -98,19 +94,11 @@ button:hover {
         width: 90%;
         height: auto;
     }
-
-    button {
-        width: 100%;
-    }
 }
 
 @media screen and (min-width: 320px) {
     .popup {
         width: 100%;
         height: auto;
-    }
-
-    button {
-        width: 100%;
     }
 }
